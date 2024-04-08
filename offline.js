@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1712578769,
+	"version": 1712586080,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,9 @@
 		"images/art-sheet0.png",
 		"images/fg-sheet0.png",
 		"images/glarelight-sheet0.png",
+		"images/ooredoo-sheet0.png",
+		"images/ooredoo2-sheet0.png",
+		"images/ooredoo3-sheet0.png",
 		"media/life_of_riley.m4a",
 		"media/life_of_riley.ogg",
 		"media/levelclear.m4a",
