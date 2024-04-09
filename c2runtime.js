@@ -26615,10 +26615,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr,
 	cr.plugins_.Browser,
 	cr.plugins_.Function,
-	cr.plugins_.Text,
 	cr.plugins_.Spritefont2,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch,
+	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.SpriteFontPlus,
 	cr.behaviors.lunarray_LiteTween,
@@ -26671,7 +26671,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.acts.SetPaused,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.admob.prototype.cnds.IsShowingInterstitial,
-	cr.plugins_.admob.prototype.acts.ShowInterstitial,
 	cr.plugins_.Spritefont2.prototype.cnds.OnCreated,
 	cr.plugins_.Arr.prototype.acts.JSONLoad,
 	cr.plugins_.Spritefont2.prototype.acts.SetCharacterWidth,
@@ -26679,6 +26678,5 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr.prototype.exps.Height,
 	cr.system_object.prototype.acts.GoToLayoutByName,
 	cr.plugins_.Audio.prototype.acts.Stop,
-	cr.plugins_.Browser.prototype.acts.RequestFullScreen,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject
 ];};
